@@ -4,7 +4,7 @@
 
 <body>
 
-  <script> src="alert2.js"</script>
+  <script src="alert2.js"></script>
 </body>
 
 </html>
